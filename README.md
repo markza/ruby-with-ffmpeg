@@ -1,1 +1,1 @@
-# ruby-with-ffmpeg
+Ruby 2.4.1 with ffmpeg 3.3 base image

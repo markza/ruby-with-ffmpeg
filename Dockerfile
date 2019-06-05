@@ -1,4 +1,4 @@
-FROM ruby:2.4.1
+FROM ruby:2.6.3
 
 ENV FFMPEG_VERSION=3.3
 
